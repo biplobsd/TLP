@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/local/bin/perl
 ##########################################################################
 # Thinkpad ACPI Battery Control
 # Copyright 2011 Elliot Wolk

@@ -1,4 +1,4 @@
-#!/usr/bin/env clitest
+#!/usr/local/bin/env clitest
 # Test charge thresholds for Macbooks
 # Requirements:
 # * Hardware: Apple Silcon Macbook w/ MacOS firmware 13.0+

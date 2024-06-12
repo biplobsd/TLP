@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/local/bin/perl
 # tlp-usblist - list usb device info with autosuspend attributes
 #
 # Copyright (c) 2024 Thomas Koch <linrunner at gmx.net> and others.

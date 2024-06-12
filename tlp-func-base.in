@@ -519,7 +519,7 @@ add_sbin2path () { # check if /sbin /usr/sbin in $PATH, otherwise add them
     _oldpath="$PATH"
     _addpath=""
 
-    for sp in /usr/sbin /sbin; do
+    for sp in /usr/local/sbin /sbin; do
         if [ -d $sp ] && [ ! -h $sp ]; then
             # dir exists and is not a symlink
             case ":$PATH:" in

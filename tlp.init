@@ -19,7 +19,7 @@
 
 [ -r /lib/lsb/init-functions ] && . /lib/lsb/init-functions
 
-TLP=/usr/sbin/tlp
+TLP=/usr/local/sbin/tlp
 [ -x $TLP ] || exit 0
 
 case "$1" in
